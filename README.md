@@ -1,5 +1,15 @@
 # Desarrollo Web I
---
+> Requerimentos necesarios: Tener instalado o instalar *npm*
+
+> Para la creación de un nuevo proyecto:
+
+      npm create vite
+          Ponerle un nombre y seleccionar vainilla -> TypeScript
+          npm install
+
+> Y para correrlo
+
+      npm run dev
 
 ## UNIDAD I
 - Cons, Let y Var
