@@ -1,4 +1,5 @@
 # Desarrollo Web I
+> [!NOTE]
 > Requerimentos necesarios: Tener instalado o instalar *npm*
 
 > Para la creación de un nuevo proyecto:
@@ -24,3 +25,4 @@
 -  Axios
 
 ## UNIDAD II
+- Async/Await
