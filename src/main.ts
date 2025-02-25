@@ -9,7 +9,8 @@ import viteLogo from '/vite.svg'
 //import '../temas/destruc-objetos'
 //import '../src/temas/destruc-arreglos'
 //import '../src/temas/fetch'
-import '../src/temas/axios'
+//import '../src/temas/axios'
+import '../src/temas/async-await'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>

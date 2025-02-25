@@ -3,7 +3,7 @@ import { GIFResponse } from "../interfaces/gif.response";
 
 const apiKey = "O6SK7GZnfFjsH4IwyxYZjNY8ZG8HY7hx";
 
-const giphyApi = axios.create({
+export const giphyApi = axios.create({
     baseURL: 'https://api.giphy.com/v1/gifs',
     params: {
         api_key: apiKey,
