@@ -9,7 +9,7 @@
           Ponerle un nombre y seleccionar vainilla -> TypeScript
           npm install
 
-> [!IMPORT]
+> [!IMPORTANT]
 > Y para correrlo
 
       npm run dev
