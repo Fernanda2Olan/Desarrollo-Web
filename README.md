@@ -2,12 +2,14 @@
 > [!NOTE]
 > Requerimentos necesarios: Tener instalado o instalar *npm*
 
+> [!TIP]
 > Para la creación de un nuevo proyecto:
 
       npm create vite
           Ponerle un nombre y seleccionar vainilla -> TypeScript
           npm install
 
+> [!IMPORT]
 > Y para correrlo
 
       npm run dev
